@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\bin\Debug\net6.0\TemperatureConversion.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\bin\Debug\net6.0\TemperatureConversion.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\bin\Debug\net6.0\TemperatureConversion.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\bin\Debug\net6.0\TemperatureConversion.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\bin\Debug\net6.0\TemperatureConversion.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\obj\Debug\net6.0\refint\TemperatureConversion.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\obj\Debug\net6.0\TemperatureConversion.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TemperatureConversion\TemperatureConversion\obj\Debug\net6.0\ref\TemperatureConversion.dll

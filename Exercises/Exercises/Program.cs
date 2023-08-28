@@ -3,11 +3,11 @@
     private static void Main(string[] args)
     {
         // Initialize variables
-        string name = "Caleb Chan";
-        string streetAddress = "123 Main St";
-        int apartmentNumber = 456;
-        string city = "Anytown";
-        string state = "CA";
+        string name = "John Doe";
+        string streetAddress = "MockStreetAddress";
+        int apartmentNumber = 123;
+        string city = "MockCity";
+        string state = "MockState";
 
         // Display the address label
         Console.WriteLine($"{name}");
