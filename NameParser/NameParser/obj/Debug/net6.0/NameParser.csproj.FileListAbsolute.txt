@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\bin\Debug\net6.0\NameParser.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\bin\Debug\net6.0\NameParser.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\bin\Debug\net6.0\NameParser.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\bin\Debug\net6.0\NameParser.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\bin\Debug\net6.0\NameParser.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\obj\Debug\net6.0\NameParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\obj\Debug\net6.0\NameParser.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\obj\Debug\net6.0\NameParser.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\obj\Debug\net6.0\NameParser.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\obj\Debug\net6.0\NameParser.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\obj\Debug\net6.0\refint\NameParser.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\obj\Debug\net6.0\NameParser.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\obj\Debug\net6.0\NameParser.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\NameParser\NameParser\obj\Debug\net6.0\ref\NameParser.dll

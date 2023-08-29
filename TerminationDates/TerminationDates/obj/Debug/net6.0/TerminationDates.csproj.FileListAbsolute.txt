@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\bin\Debug\net6.0\TerminationDates.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\bin\Debug\net6.0\TerminationDates.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\bin\Debug\net6.0\TerminationDates.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\bin\Debug\net6.0\TerminationDates.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\bin\Debug\net6.0\TerminationDates.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\obj\Debug\net6.0\TerminationDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\obj\Debug\net6.0\TerminationDates.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\obj\Debug\net6.0\TerminationDates.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\obj\Debug\net6.0\TerminationDates.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\obj\Debug\net6.0\TerminationDates.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\obj\Debug\net6.0\refint\TerminationDates.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\obj\Debug\net6.0\TerminationDates.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\obj\Debug\net6.0\TerminationDates.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\TerminationDates\TerminationDates\obj\Debug\net6.0\ref\TerminationDates.dll
