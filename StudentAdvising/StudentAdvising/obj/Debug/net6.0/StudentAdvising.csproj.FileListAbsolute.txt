@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\bin\Debug\net6.0\StudentAdvising.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\bin\Debug\net6.0\StudentAdvising.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\bin\Debug\net6.0\StudentAdvising.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\bin\Debug\net6.0\StudentAdvising.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\bin\Debug\net6.0\StudentAdvising.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\obj\Debug\net6.0\refint\StudentAdvising.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\obj\Debug\net6.0\StudentAdvising.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StudentAdvising\StudentAdvising\obj\Debug\net6.0\ref\StudentAdvising.dll

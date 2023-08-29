@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\bin\Debug\net6.0\DataScrubbing.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\bin\Debug\net6.0\DataScrubbing.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\bin\Debug\net6.0\DataScrubbing.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\bin\Debug\net6.0\DataScrubbing.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\bin\Debug\net6.0\DataScrubbing.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\obj\Debug\net6.0\DataScrubbing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\obj\Debug\net6.0\DataScrubbing.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\obj\Debug\net6.0\DataScrubbing.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\obj\Debug\net6.0\DataScrubbing.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\obj\Debug\net6.0\DataScrubbing.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\obj\Debug\net6.0\refint\DataScrubbing.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\obj\Debug\net6.0\DataScrubbing.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\obj\Debug\net6.0\DataScrubbing.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\DataScrubbing\DataScrubbing\obj\Debug\net6.0\ref\DataScrubbing.dll
