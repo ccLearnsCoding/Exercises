@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\bin\Debug\net6.0\GegorianCalendar.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\bin\Debug\net6.0\GegorianCalendar.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\bin\Debug\net6.0\GegorianCalendar.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\bin\Debug\net6.0\GegorianCalendar.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\bin\Debug\net6.0\GegorianCalendar.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\obj\Debug\net6.0\GegorianCalendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\obj\Debug\net6.0\GegorianCalendar.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\obj\Debug\net6.0\GegorianCalendar.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\obj\Debug\net6.0\GegorianCalendar.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\obj\Debug\net6.0\GegorianCalendar.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\obj\Debug\net6.0\refint\GegorianCalendar.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\obj\Debug\net6.0\GegorianCalendar.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\obj\Debug\net6.0\GegorianCalendar.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\GegorianCalendar\GegorianCalendar\obj\Debug\net6.0\ref\GegorianCalendar.dll

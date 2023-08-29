@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\bin\Debug\net6.0\PriceQuoter.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\bin\Debug\net6.0\PriceQuoter.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\bin\Debug\net6.0\PriceQuoter.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\bin\Debug\net6.0\PriceQuoter.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\bin\Debug\net6.0\PriceQuoter.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\obj\Debug\net6.0\PriceQuoter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\obj\Debug\net6.0\PriceQuoter.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\obj\Debug\net6.0\PriceQuoter.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\obj\Debug\net6.0\PriceQuoter.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\obj\Debug\net6.0\PriceQuoter.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\obj\Debug\net6.0\refint\PriceQuoter.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\obj\Debug\net6.0\PriceQuoter.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\obj\Debug\net6.0\PriceQuoter.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PriceQuoter\PriceQuoter\obj\Debug\net6.0\ref\PriceQuoter.dll

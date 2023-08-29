@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0\MortgageCalculator.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0\MortgageCalculator.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0\MortgageCalculator.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0\MortgageCalculator.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\bin\Debug\net6.0\MortgageCalculator.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\refint\MortgageCalculator.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\MortgageCalculator.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MortgageCalculator\MortgageCalculator\obj\Debug\net6.0\ref\MortgageCalculator.dll
