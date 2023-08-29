@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\bin\Debug\net6.0\AveragingNumbers.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\bin\Debug\net6.0\AveragingNumbers.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\bin\Debug\net6.0\AveragingNumbers.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\bin\Debug\net6.0\AveragingNumbers.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\bin\Debug\net6.0\AveragingNumbers.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\obj\Debug\net6.0\AveragingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\obj\Debug\net6.0\AveragingNumbers.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\obj\Debug\net6.0\AveragingNumbers.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\obj\Debug\net6.0\AveragingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\obj\Debug\net6.0\AveragingNumbers.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\obj\Debug\net6.0\refint\AveragingNumbers.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\obj\Debug\net6.0\AveragingNumbers.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\obj\Debug\net6.0\AveragingNumbers.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Exercises\AveragingNumbers\obj\Debug\net6.0\ref\AveragingNumbers.dll

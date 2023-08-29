@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\obj\Debug\net6.0\MenuDrivenTemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\obj\Debug\net6.0\MenuDrivenTemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\obj\Debug\net6.0\MenuDrivenTemperatureConverter.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\obj\Debug\net6.0\MenuDrivenTemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\bin\Debug\net6.0\MenuDrivenTemperatureConverter.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\bin\Debug\net6.0\MenuDrivenTemperatureConverter.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\bin\Debug\net6.0\MenuDrivenTemperatureConverter.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\bin\Debug\net6.0\MenuDrivenTemperatureConverter.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\bin\Debug\net6.0\MenuDrivenTemperatureConverter.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\obj\Debug\net6.0\MenuDrivenTemperatureConverter.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\obj\Debug\net6.0\refint\MenuDrivenTemperatureConverter.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\obj\Debug\net6.0\MenuDrivenTemperatureConverter.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\obj\Debug\net6.0\MenuDrivenTemperatureConverter.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\MenuDrivenTemperatureConverter\MenuDrivenTemperatureConverter\obj\Debug\net6.0\ref\MenuDrivenTemperatureConverter.dll
