@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\bin\Debug\net6.0\AddressLabel.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\bin\Debug\net6.0\AddressLabel.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\bin\Debug\net6.0\AddressLabel.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\bin\Debug\net6.0\AddressLabel.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\bin\Debug\net6.0\AddressLabel.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\obj\Debug\net6.0\AddressLabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\obj\Debug\net6.0\AddressLabel.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\obj\Debug\net6.0\AddressLabel.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\obj\Debug\net6.0\AddressLabel.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\obj\Debug\net6.0\AddressLabel.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\obj\Debug\net6.0\refint\AddressLabel.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\obj\Debug\net6.0\AddressLabel.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\obj\Debug\net6.0\AddressLabel.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\AddressLabel\AddressLabel\obj\Debug\net6.0\ref\AddressLabel.dll
