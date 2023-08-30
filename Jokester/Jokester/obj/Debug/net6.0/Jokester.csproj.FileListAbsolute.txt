@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\bin\Debug\net6.0\Jokester.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\bin\Debug\net6.0\Jokester.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\bin\Debug\net6.0\Jokester.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\bin\Debug\net6.0\Jokester.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\bin\Debug\net6.0\Jokester.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\obj\Debug\net6.0\Jokester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\obj\Debug\net6.0\Jokester.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\obj\Debug\net6.0\Jokester.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\obj\Debug\net6.0\Jokester.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\obj\Debug\net6.0\Jokester.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\obj\Debug\net6.0\refint\Jokester.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\obj\Debug\net6.0\Jokester.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\obj\Debug\net6.0\Jokester.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Jokester\Jokester\obj\Debug\net6.0\ref\Jokester.dll

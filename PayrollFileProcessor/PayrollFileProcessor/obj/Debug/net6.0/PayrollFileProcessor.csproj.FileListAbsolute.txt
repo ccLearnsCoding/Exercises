@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\bin\Debug\net6.0\PayrollFileProcessor.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\bin\Debug\net6.0\PayrollFileProcessor.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\bin\Debug\net6.0\PayrollFileProcessor.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\bin\Debug\net6.0\PayrollFileProcessor.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\bin\Debug\net6.0\PayrollFileProcessor.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\obj\Debug\net6.0\PayrollFileProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\obj\Debug\net6.0\PayrollFileProcessor.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\obj\Debug\net6.0\PayrollFileProcessor.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\obj\Debug\net6.0\PayrollFileProcessor.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\obj\Debug\net6.0\PayrollFileProcessor.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\obj\Debug\net6.0\refint\PayrollFileProcessor.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\obj\Debug\net6.0\PayrollFileProcessor.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\obj\Debug\net6.0\PayrollFileProcessor.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\PayrollFileProcessor\PayrollFileProcessor\obj\Debug\net6.0\ref\PayrollFileProcessor.dll

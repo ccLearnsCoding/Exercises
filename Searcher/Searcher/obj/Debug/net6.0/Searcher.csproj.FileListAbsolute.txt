@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\bin\Debug\net6.0\Searcher.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\bin\Debug\net6.0\Searcher.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\bin\Debug\net6.0\Searcher.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\bin\Debug\net6.0\Searcher.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\bin\Debug\net6.0\Searcher.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\obj\Debug\net6.0\Searcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\obj\Debug\net6.0\Searcher.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\obj\Debug\net6.0\Searcher.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\obj\Debug\net6.0\Searcher.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\obj\Debug\net6.0\Searcher.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\obj\Debug\net6.0\refint\Searcher.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\obj\Debug\net6.0\Searcher.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\obj\Debug\net6.0\Searcher.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\Searcher\Searcher\obj\Debug\net6.0\ref\Searcher.dll

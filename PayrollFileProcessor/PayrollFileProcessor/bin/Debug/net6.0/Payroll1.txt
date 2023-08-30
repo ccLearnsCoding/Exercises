@@ -1,0 +1,7 @@
+10001Jennifer Lynne      50.00 40.0
+10234Charlie Lynne       27.00 15.5 
+15611Jason Daniel        60.00 40.0
+23115Kristin Daniel      47.00 36.0
+23116Hannah Daniel        9.60 20.0
+23117Abigail Daniel      10.00 15.0
+23395Heidi Daniel         8.75  6.0

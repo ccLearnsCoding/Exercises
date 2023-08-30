@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\bin\Debug\net6.0\FileTest.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\bin\Debug\net6.0\FileTest.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\bin\Debug\net6.0\FileTest.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\bin\Debug\net6.0\FileTest.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\bin\Debug\net6.0\FileTest.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\obj\Debug\net6.0\FileTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\obj\Debug\net6.0\FileTest.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\obj\Debug\net6.0\FileTest.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\obj\Debug\net6.0\FileTest.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\obj\Debug\net6.0\FileTest.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\obj\Debug\net6.0\refint\FileTest.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\obj\Debug\net6.0\FileTest.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\obj\Debug\net6.0\FileTest.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\FileTest\FileTest\obj\Debug\net6.0\ref\FileTest.dll

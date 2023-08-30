@@ -1,0 +1,14 @@
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\bin\Debug\net6.0\StatisticsManager.exe
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\bin\Debug\net6.0\StatisticsManager.deps.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\bin\Debug\net6.0\StatisticsManager.runtimeconfig.json
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\bin\Debug\net6.0\StatisticsManager.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\bin\Debug\net6.0\StatisticsManager.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\obj\Debug\net6.0\StatisticsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\obj\Debug\net6.0\StatisticsManager.AssemblyInfoInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\obj\Debug\net6.0\StatisticsManager.AssemblyInfo.cs
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\obj\Debug\net6.0\StatisticsManager.csproj.CoreCompileInputs.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\obj\Debug\net6.0\StatisticsManager.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\obj\Debug\net6.0\refint\StatisticsManager.dll
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\obj\Debug\net6.0\StatisticsManager.pdb
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\obj\Debug\net6.0\StatisticsManager.genruntimeconfig.cache
+C:\Users\caleb.chan.yee.hang\Downloads\NET Course Content\Labs\StatisticsManager\StatisticsManager\obj\Debug\net6.0\ref\StatisticsManager.dll
